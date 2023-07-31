@@ -17,3 +17,5 @@ vendor
 package-lock.json
 .idea
 .firebase
+
+.cifuzz-**
